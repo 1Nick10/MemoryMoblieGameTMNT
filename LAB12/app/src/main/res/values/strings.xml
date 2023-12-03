@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LAB1</string>
+    <string name="MainMenu">Главное меню</string>
+    <string name="BeginPlay">Начать игру</string>
+    <string name="Exit">Выйти из игры</string>
+    <string name="timeString">Время игры:</string>
+    <string name="recordString">Рекордное время:</string>
+</resources>
